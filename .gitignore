@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+!data/
+!data/articles/
+!data/articles/*.md
+data/state.json
+data/upload_state.json
+logs/
+*.pyc
